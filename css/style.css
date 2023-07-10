@@ -66,6 +66,25 @@ img {
 }
 
 body {
-  background-color: blue;
-  font-size: 70px;
+  color : black;
+}
+
+
+.container{ 
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+a img { 
+  max-width: 200px;
+  height: 100%;
+
+}
+
+.content__title{ 
+  color : black;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
